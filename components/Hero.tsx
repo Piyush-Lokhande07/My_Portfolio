@@ -1,5 +1,5 @@
 import React from 'react'
-import { Spotlight } from './ui/Spotlight';
+// import { Spotlight } from './ui/Spotlight';
 import { cn } from '@/lib/utils';
 import { TextGenerateEffect } from './ui/TextGenerateEffect';
 import MagicButton from './ui/MagicButton';
